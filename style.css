@@ -97,7 +97,7 @@ input{
 
 /* PROJECTS HOUSES CSS */
 .project-heading{
-    padding-top: 4rem;
+    /* padding-top: 4rem; */
     height: 10rem;
     margin-left: 10rem;
     font-size: 1.5rem;
@@ -279,7 +279,6 @@ line-height: auto;
 /* Footer css */
 .footer{
     left: 0;
-    right: 0;
     height: 5rem;
     background-color: var(--color);
     text-align: center;
